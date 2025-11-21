@@ -1,0 +1,11 @@
+{
+  "name": "kimya",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo build completed",
+    "start": "npx serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.5"
+  }
+}
